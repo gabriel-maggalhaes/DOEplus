@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+header div {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+header div img {
+    width: 80px;
+    margin-left: 20px;
+}
+header div h1 {
+    margin-left: 250px;
+    align-items: center;
+}
+header div nav a {
+    padding: 20px;
+    text-decoration: none;
+    font-size: 20px;
+}
+section {
+    width: 100%;
+    height: 400px;
+    margin: 50px 0;
+    border: 2px solid black;
+}
+section h1 {
+    text-align: center;
+}
+.secao-paragrafo {
+    display: flex;
+    margin: 70px auto;
+    width: 70%;
+}
+p {
+    margin-left: 30px;
+}
+
